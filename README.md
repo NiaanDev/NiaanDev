@@ -1,6 +1,6 @@
 # **About NiaanDev** 💼
 
-Welcome to my GitHub portfolio! Here you'll find a collection of projects that showcase my skills and experiences as a developer. Each repository represents work that I am proud of and demonstrates my expertise in various aspects of programming.
+Welcome to my GitHub ! Here you'll find a collection of projects that showcase my skills and experiences as a developer. Each repository represents work that I am proud of and demonstrates my expertise in various aspects of programming.
 
 ---
 
