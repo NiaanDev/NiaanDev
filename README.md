@@ -38,7 +38,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of projects that s
 
 Feel free to connect with me:
 
-- [Instagram](https://www.instagram.com/haisee8)
+- Instagram: [Haisee8](https://www.instagram.com/haisee8)
 - Email: akku.burhan77@gmail.com
 
 ---
