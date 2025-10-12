@@ -30,7 +30,7 @@ Welcome to my GitHub ! Here you'll find a collection of projects that showcase m
 
 ## **🔧 Skills & Technologies**
 
-- **Languages**: Python, JavaScript, HTML/CSS, C#, PHP, Java
+- **Languages**: Python, JavaScript, PHP, Java
 - **Frameworks & Libraries**: Bootstrap, Laravel
 - **Tools**: Git, GitHub, VS Code
 
